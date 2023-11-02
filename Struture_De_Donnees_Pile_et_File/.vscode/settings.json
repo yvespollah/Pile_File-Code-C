@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.js": "c",
+        "cstdio": "c"
+    }
+}
